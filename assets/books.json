@@ -1,0 +1,32 @@
+[
+    {
+        "titolo": "Il barone rampante",
+        "genere": "Dramma",
+        "anno" : 1970 
+    },
+    {
+        "titolo": "Omicidio sul Nilo",
+        "genere": "Giallo",
+        "anno" : 1965 
+    },
+    {
+        "titolo": "Il signore degli anelli",
+        "genere": "Fanatasy",
+        "anno" : 1920 
+    },
+    {
+        "titolo": "Amleto",
+        "genere": "Dramma",
+        "anno" : 1830 
+    },
+    {
+        "titolo": "Matematica 1",
+        "genere": "Scolastico",
+        "anno" : 1975 
+    },
+    {
+        "titolo": "Fai da te per gli scemi",
+        "genere": "Manuale",
+        "anno" : 1990 
+    }
+]
