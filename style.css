@@ -1,6 +1,10 @@
-.liStyle{
+/* .liStyle{
     margin-bottom: 20px;
     font-size: 40px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
 }
 
 .liStyle li{
@@ -11,4 +15,22 @@
 
 .liStyle ul{
     font-size: 20px;
+} */
+
+
+.book-card{
+    margin-bottom: 20px;
+    font-size: 40px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.large-font{
+    font-size: large;
 }
